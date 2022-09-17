@@ -5,6 +5,7 @@
 uniapp实战之使用 uview 和 springboot 实现图片上传。
 
 代码简单文字讲解已在 learnku 平台发布。
+[代码文字讲解](https://learnku.com/articles/71775)
 
 ## 项目架构
 
